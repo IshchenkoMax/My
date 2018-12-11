@@ -1,0 +1,5 @@
+main_url = 'http://test.hp.dev.eleken.co'
+reg_link = '/html/body/div/div/div[1]/div/div/div[2]/a/button'
+path_to_file = '/Users/katedra/PycharmProjects/AllureTest/core/userEmail.txt'
+inv_code = 'https://test.hp.dev.eleken.co/account/register/hpqxs2v'
+inv_code_short = 'hpqxs2v'

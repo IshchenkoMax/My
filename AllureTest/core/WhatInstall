@@ -1,0 +1,12 @@
+
+запуск тестов с аллуре -  pytest --alluredir /Users/katedra/PycharmProjects/AllureTest/Tests/Report
+
+Конверт репортов в HTML  $ cd /path to folder
+                         $ allure generate /path to folder --clear (что б очистить существующую дерикторию
+
+
+запуск одного теста      $ pytest test_001_RunMainPage.py --alluredir /Users/katedra/PycharmProjects/AllureTest/Tests/Report
+
+
+
+
